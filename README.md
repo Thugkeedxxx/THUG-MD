@@ -1,109 +1,153 @@
 🤖 𝕋𝕙𝕦𝕘-𝕄𝔻 WhatsApp Bot
+
 <div align="center">
-  ![Bot Logo](https://image2url.com/images/1764397332316-e299b6fc-388c-4097-9f8a-0b1367fa2108.jpg)
-  <!-- Animated Typing Effect -->
-  ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=𝕋𝕙𝕦𝕘-𝕄𝔻+Bot+v1&font=Fira+Code&color=00C853&size=28&center=true&vCenter=true&width=800&height=50&duration=3000&pause=1000)
-  <!-- Backup static version if SVG doesn't load -->
-  <noscript> **🚀 𝕋𝕙𝕦𝕘-𝕄𝔻 Bot v1** </noscript>
-  *Advanced WhatsApp Bot with 300+ Commands*
-  [![Status](https:                                                                                              
-  [![Version](https:                                                                                    
-  [![License](https:                                                                                       
+
+
+
+
+---
+
+🏆 BADGES
+
+<img src="https://img.shields.io/badge/THUG--MD-v1.0-green?style=for-the-badge&logo=whatsapp" />
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-success?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Baileys-MD_API-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Node.js-18.x-brightgreen?style=for-the-badge&logo=node.js" />
+<img src="https://img.shields.io/badge/Language-JavaScript-yellow?style=for-the-badge&logo=javascript" />
+<img src="https://img.shields.io/badge/Platform-WhatsApp-darkgreen?style=for-the-badge&logo=whatsapp" />
+<img src="https://img.shields.io/badge/Hosting-Render-blue?style=for-the-badge&logo=render" />
+<img src="https://img.shields.io/badge/Hosting-Heroku-purple?style=for-the-badge&logo=heroku" />
+<img src="https://img.shields.io/badge/Hosting-Railway-black?style=for-the-badge&logo=railway" />
+<img src="https://img.shields.io/badge/Hosting-Vercel-black?style=for-the-badge&logo=vercel" />
+<img src="https://img.shields.io/github/stars/thugkeedxxx/THUG-MD?style=for-the-badge&color=yellow" />
+<img src="https://img.shields.io/github/forks/thugkeedxxx/THUG-MD?style=for-the-badge&color=blue" />
+<img src="https://img.shields.io/github/repo-size/thugkeedxxx/THUG-MD?style=for-the-badge&color=orange" />
+<img src="https://img.shields.io/badge/LICENSE-MIT-purple?style=for-the-badge" />
+<img src="https://img.shields.io/badge/OPEN%20SOURCE-YES-brightgreen?style=for-the-badge" />
+<img src="https://visitor-badge.laobi.icu/badge?page_id=thugkeedxxx.THUG-MD" />
+---
+
+🚀 FEATURES
+
+<img src="https://img.shields.io/badge/AI-ChatGPT%20%2F%20Gemini-blue?style=for-the-badge&logo=openai" />
+<img src="https://img.shields.io/badge/Media-YouTube%20Downloader-red?style=for-the-badge&logo=youtube" />
+<img src="https://img.shields.io/badge/Sticker-Maker-yellow?style=for-the-badge&logo=google-photos" />
+<img src="https://img.shields.io/badge/Group-Admin%20Tools-orange?style=for-the-badge&logo=security" />
+<img src="https://img.shields.io/badge/Logo-Image%20Generator-purple?style=for-the-badge&logo=codementor" />
+<img src="https://img.shields.io/badge/Utils-Tools%20%26%20Automation-lightgrey?style=for-the-badge&logo=android" />
+<img src="https://img.shields.io/badge/Anti-ViewOnce%20%2F%20AntiDelete-brightgreen?style=for-the-badge&logo=shield" />
+<img src="https://img.shields.io/badge/Auto-Reply%20System-blueviolet?style=for-the-badge&logo=bot" />
+<img src="https://img.shields.io/badge/Speed-Fastest%20MD%20Bot-green?style=for-the-badge&logo=fastapi" />
+---
+
+🛡️ SECURITY
+
+<img src="https://img.shields.io/badge/Security-Encrypted%20Session-green?style=for-the-badge&logo=lock" />
+<img src="https://img.shields.io/badge/Protection-Anti%20Crash-red?style=for-the-badge&logo=shield" />
+<img src="https://img.shields.io/badge/Safe-Dependencies-brightgreen?style=for-the-badge&logo=npm" />
+<img src="https://img.shields.io/badge/CodeQL-Scanning-pink?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Stable-99%25%20Uptime-blue?style=for-the-badge&logo=serverfault" />
+---
+
+📸 Connection Screenshot
+
+<div align="center">
+
 </div>
+---
 
-                          
-When the bot starts successfully, you'll see this welcome message:
-![Connection Success](https://image2url.com/images/1764397454995-de95470a-7a53-4af4-b761-880f0c0b00c6.jpg)
+⚙️ Bot Configuration
 
-Bot Configuration
-```bash
-BOT_PREFIX=. # Command prefix
-BOT_NUMBER=your_number # Bot WhatsApp number
-BOT_NAME=𝕋𝕙𝕦𝕘-𝕄𝔻 # Bot display name
-BOT_OWNER_NAME=Your Name # Owner name
-BOT_SESSION_DATA=<session> # WhatsApp session ID
+Create a .env file:
 
-*How to Change in Render:*
-1. Go to your Render dashboard
-2. Navigate to your service
-3. Click on "Environment" tab
-4. Modify the values (true/false)
-5. Save changes - bot will auto-restart
+BOT_PREFIX=.
+BOT_NUMBER=your_number
+BOT_NAME=𝕋𝕙𝕦𝕘-𝕄𝔻
+BOT_OWNER_NAME=YourName
+BOT_SESSION_DATA=your_session_here
+OPENAI_API_KEY=optional
+GEMINI_API_KEY=optional
 
-🚀 Quick Start
-One-Click Deploy
-<p align="center">
-🚀 <b>One-Click Deploy</b>
-</p>
-<p align="center">
-<!-- Heroku -->
-<a href="https://heroku.com/deploy?template=https://github.com/thugkeedxxx/THUG-MD">
-<img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy to Heroku" />
-</a>
-<!-- Render -->
-<a href="https://render.com/deploy?repo=https://github.com/thugkeedxxx/THUG-MD">
-<img src="https://raw.githubusercontent.com/thugkeedxxx/THUG-MD/main/assets/render-deploy.svg" alt="Deploy to Render" />
-</a>
-<!-- Railway -->
-<a href="https://railway.app/new/template?template=https://github.com/thugkeedxxx/THUG-MD">
-<img src="https://railway.app/button.svg" alt="Deploy on Railway" />
-</a>
-<!-- Replit -->
-<a href="https://replit.com/new/github/thugkeedxxx/THUG-MD">
-<img src="https://replit.com/badge/github/thugkeedxxx/THUG-MD" alt="Run on Replit" />
-</a>
-<!-- Vercel -->
-<a href="https://vercel.com/new/clone?repository-url=https://github.com/thugkeedxxx/THUG-MD">
-<img src="https://raw.githubusercontent.com/thugkeedxxx/THUG-MD/main/assets/vercel-deploy.svg" alt="Deploy with Vercel" />
-</a>
-</p>
 
-Manual Installation
-1. *Clone the repository*
-git clone https://github.com/thugkeedxxx/THUG-MD.git
+---
+
+🚀 One-Click Deployment
+
+<div align="center">⚡ Deploy On Any Platform
+
+Platform	Button
+
+Render	<a href="https://render.com/deploy?repo=https://github.com/thugkeedxxx/THUG-MD"><img src="https://raw.githubusercontent.com/thugkeedxxx/THUG-MD/main/assets/render-deploy.svg" width="200"></a>
+Heroku	<a href="https://heroku.com/deploy?template=https://github.com/thugkeedxxx/THUG-MD"><img src="https://www.herokucdn.com/deploy/button.svg" width="200" /></a>
+Railway	<a href="https://railway.app/new/template?template=https://github.com/thugkeedxxx/THUG-MD"><img src="https://railway.app/button.svg" width="200" /></a>
+Replit	<a href="https://replit.com/new/github/thugkeedxxx/THUG-MD"><img src="https://replit.com/badge/github/thugkeedxxx/THUG-MD" width="200" /></a>
+Vercel	<a href="https://vercel.com/new/clone?repository-url=https://github.com/thugkeedxxx/THUG-MD"><img src="https://raw.githubusercontent.com/thugkeedxxx/THUG-MD/main/assets/vercel-deploy.svg" width="200" /></a>
+
+
+</div>
+---
+
+🛠️ Manual Installation
+
+1️⃣ Clone repo
+
+git clone https://github.com/thugkeedxxx/THUG-MD
 cd THUG-MD
 
-2. *Install dependencies*
+2️⃣ Install dependencies
+
 npm install
 
-3. *Configure environment variables*
-Set these secrets in your deployment platform (Render dashboard or local `.env` file):
-BOT_PREFIX=. # Command prefix (default: .)
-BOT_NUMBER=your_number # Bot WhatsApp number (without + or spaces)
-BOT_NAME=Your Bot Name # Optional: Custom bot name
-BOT_OWNER_NAME=Your Name # Optional: Your display name
-BOT_SESSION_DATA=your_session # Your session ID from generator
-OPENAI_API_KEY=sk-xxx... # Optional: For AI features
-GEMINI_API_KEY=xxx... # Optional: For Google AI
+3️⃣ Add config
 
-4. *Run the bot*
-*For Render Deployment (Recommended):*
-- Environment variables are set in Render dashboard
-- Bot starts automatically after deployment
-- Uses Docker for reliable operation
-*For Local Development:*
+Edit .env file or Render dashboard.
+
+4️⃣ Start bot
+
 npm start
 
-👨‍💻 Developer
-<!-- Animated Typing Effect -->
-!https://readme-typing-svg.demolab.com/?lines=%F0%9D%95%8B%F0%9D%95%99%F0%9D%95%A6%F0%9D%95%98-%F0%9D%95%84%F0%9D%94%BB+v1&font=Fira+Code&color=00C853&size=28&center=true&vCenter=true&width=800&height=50&duration=3000&pause=1000
-*Created by*: THUGKEEDXXX
-*GitHub*: https://github.com/thugkeedxxx
-*WhatsApp Channel*: https://whatsapp.com/channel/0029VbBUnlCB4hdInUVuGl1r
-*Email*: Thugkeeedcodes@gmail.com
 
-Support the Project
-⭐ *Star this repository* if you find it helpful!
-🐛 *Report bugs* via GitHub Issues
-💡 *Suggest features* for future updates
-🤝 *Contribute* to make it even better
-<!-- Animated Typing Effect -->
-!https://readme-typing-svg.demolab.com/?lines=STAR+FORK+SHARE+REPORT+BUGS+CONTRIBUTE+AND+SUGGEST+NEW+FEATURES&font=Fira+Code&color=00C853&size=28&center=true&vCenter=true&width=800&height=50&duration=3000&pause=1000
+---
+
+👨‍💻 Developer
+
+
+
+Author: THUGKEEDXXX
+GitHub: https://github.com/thugkeedxxx
+WhatsApp Channel: https://whatsapp.com/channel/0029VbBUnlCB4hdInUVuGl1r
+Email: your_email@example.com
+
+
+---
+
+⭐ Support The Project
+
+⭐ Star the repo
+
+🐛 Report bugs
+
+💡 Request features
+
+🤝 Contribute
+
+🔥 Share with others
+
+
+
+
+
+---
 
 📄 License
-This project is licensed under the MIT License - see the LICENSE file for details.
-<div align="center">
-*Made with ❤️ by THUGKEED*
-_For any questions or support, feel free to reach out!_
-</div>
 
+MIT License — free to use and modify.
+
+
+---
+
+<div align="center">❤️ Made with Love by THUGKEEDXXX
+
+For help or support, message anytime.
+
+</div>
